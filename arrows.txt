@@ -1,2 +1,8 @@
+the ship glides gently on the waves
+as days turns into night
+>>>>>>> feature
+=======
+<<<<<<< HEAD
 One thousand buring arrows
 fill teh starlit sky
+
